@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ch8_Event</string>
+    <string name="txt_data1">Hello</string>
+    <string name="txt_data2">World</string>
+    <string name="Chronometer">Chronometer</string>
+    <string name="intro">Hi</string>
+</resources>
